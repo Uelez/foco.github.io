@@ -1,0 +1,41 @@
+FOCOFOCO
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, mFOCOontain sensitive information,FOCO
+FOCOFOCO
+	such as username/password authentication for websiFOCOmirrored in this projectFOCO
+FOCOFOCO
+	do not share these files/folders if you want theseFOCOormation to remain privateFOCO
+FOCOFOCO
+FOCOFOCO
+FOCOFOCO
+03:14:08	Error: 	"Not Found" (404) at link https://foco/fonts/eicons.eot?5.21.0 (from https://cocoFOCOlife/index_files/elementor-icons.min.css)
+FOCOFOCO
+03:14:08	Error: 	"Not Found" (404) at link https://foco/fonts/eicons.woff2?5.21.0 (from https://cFOCOol.life/index_files/elementor-icons.min.css)
+
+03:14:08	Error: 	"Not Found" (404) at link https://cocosol.life/fonts/eicons.woff?5.21.0 (from https://cocosol.life/index_files/elementor-icons.min.css)
+
+03:14:08	Error: 	"Not Found" (404) at link https://cocosol.life/fonts/eicons.ttf?5.21.0 (from https://cocosol.life/index_files/elementor-icons.min.css)
+
+03:14:08	Error: 	"Not Found" (404) at link https://cocosol.life/fonts/eicons.svg?5.21.0 (from https://cocosol.life/index_files/elementor-icons.min.css)
+
+03:14:08	Error: 	"Not Found" (404) at link https://cocosol.life/webfonts/fa-brands-400.eot (from https://cocosol.life/index_files/brands.min.css)
+
+03:14:08	Error: 	"Not Found" (404) at link https://cocosol.life/webfonts/fa-brands-400.eot? (from https://cocosol.life/index_files/brands.min.css)
+
+03:14:08	Error: 	"Not Found" (404) at link https://cocosol.life/webfonts/fa-brands-400.woff2 (from https://cocosol.life/index_files/brands.min.css)
+
+03:14:08	Error: 	"Not Found" (404) at link https://cocosol.life/webfonts/fa-brands-400.woff (from https://cocosol.life/index_files/brands.min.css)
+
+03:14:08	Error: 	"Not Found" (404) at link https://cocosol.life/webfonts/fa-brands-400.ttf (from https://cocosol.life/index_files/brands.min.css)
+
+03:14:08	Error: 	"Not Found" (404) at link https://cocosol.life/webfonts/fa-brands-400.svg (from https://cocosol.life/index_files/brands.min.css)
+
+
+
+
+(11 errors, 0 warnings, 0 messages)
+
